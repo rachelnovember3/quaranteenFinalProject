@@ -16,6 +16,9 @@
 		B8E69DFA24D1C6350032B05B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8E69DF824D1C6350032B05B /* LaunchScreen.storyboard */; };
 		B8E69E0524D1C6350032B05B /* quaranteenFinalProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E69E0424D1C6350032B05B /* quaranteenFinalProjectTests.swift */; };
 		B8E69E1024D1C6360032B05B /* quaranteenFinalProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E69E0F24D1C6360032B05B /* quaranteenFinalProjectUITests.swift */; };
+		B8E69E1E24D1CA0A0032B05B /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E69E1D24D1CA0A0032B05B /* TableViewController.swift */; };
+		B8E69E2024D1CA6D0032B05B /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E69E1F24D1CA6D0032B05B /* secondViewController.swift */; };
+		B8E69E2224D1CA950032B05B /* thirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E69E2124D1CA950032B05B /* thirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +54,9 @@
 		B8E69E0B24D1C6360032B05B /* quaranteenFinalProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = quaranteenFinalProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8E69E0F24D1C6360032B05B /* quaranteenFinalProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quaranteenFinalProjectUITests.swift; sourceTree = "<group>"; };
 		B8E69E1124D1C6360032B05B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8E69E1D24D1CA0A0032B05B /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		B8E69E1F24D1CA6D0032B05B /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
+		B8E69E2124D1CA950032B05B /* thirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +115,9 @@
 				B8E69DF824D1C6350032B05B /* LaunchScreen.storyboard */,
 				B8E69DFB24D1C6350032B05B /* Info.plist */,
 				B8E69DF324D1C62F0032B05B /* quaranteenFinalProject.xcdatamodeld */,
+				B8E69E1D24D1CA0A0032B05B /* TableViewController.swift */,
+				B8E69E1F24D1CA6D0032B05B /* secondViewController.swift */,
+				B8E69E2124D1CA950032B05B /* thirdViewController.swift */,
 			);
 			path = quaranteenFinalProject;
 			sourceTree = "<group>";
@@ -263,8 +272,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				B8E69DF524D1C62F0032B05B /* quaranteenFinalProject.xcdatamodeld in Sources */,
+				B8E69E2224D1CA950032B05B /* thirdViewController.swift in Sources */,
 				B8E69DEF24D1C62F0032B05B /* ViewController.swift in Sources */,
 				B8E69DEB24D1C62F0032B05B /* AppDelegate.swift in Sources */,
+				B8E69E1E24D1CA0A0032B05B /* TableViewController.swift in Sources */,
+				B8E69E2024D1CA6D0032B05B /* secondViewController.swift in Sources */,
 				B8E69DED24D1C62F0032B05B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
