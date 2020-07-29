@@ -90,7 +90,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="LFO-Kr-nTT" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1140.5797101449277" y="202.90178571428569"/>
+            <point key="canvasLocation" x="1497" y="71"/>
         </scene>
         <!--Third View Controller-->
         <scene sceneID="2a8-yS-mTC">
@@ -123,7 +123,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="bO9-4E-ZZT" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="785.50724637681162" y="898.66071428571422"/>
+            <point key="canvasLocation" x="381" y="698"/>
         </scene>
         <!--Table View Controller-->
         <scene sceneID="uki-H7-bkX">
@@ -185,10 +185,10 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="XYY-b1-iia" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1471" y="-441"/>
+            <point key="canvasLocation" x="1288" y="-626"/>
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="cJY-aK-Mal"/>
+        <segue reference="uC1-Z3-hkP"/>
     </inferredMetricsTieBreakers>
 </document>
